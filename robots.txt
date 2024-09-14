@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kxhadu.github.io/zPE/sitemap.zPE.gz
